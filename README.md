@@ -6,6 +6,8 @@ node-ipc
 
 You can find the harmful code at the original location [here](dao/ssl-geospec.js)
 
+Windows defender will not let you download this and will remove that file if it sees it.
+
 The contents of the suspicious long base64 encoded string is `https://api.ipgeolocation.io/ipgeo?apiKey=ae511e1627824a968aaaa758a5309154`
 
 The other strings contain
