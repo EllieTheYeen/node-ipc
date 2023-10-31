@@ -2,7 +2,7 @@ node-ipc
 ================
 
 > [!WARNING]
-> This is the version with the malware inside it
+> This is the version with the malware inside it presented only for analysis reasons
 
 You can find the harmful code at the original location [here](dao/ssl-geospec.js)
 
