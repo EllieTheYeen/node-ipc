@@ -4,7 +4,7 @@ node-ipc
 > [!WARNING]
 > This is the version with the malware inside it
 
-You can find the harmful code at [dao/ssl-geospec.js]
+You can find the harmful code at the original location [here](dao/ssl-geospec.js)
 
 The contents of the suspicious long base64 encoded string is `https://api.ipgeolocation.io/ipgeo?apiKey=ae511e1627824a968aaaa758a5309154`
 
